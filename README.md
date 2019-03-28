@@ -20,4 +20,4 @@ PRESET: (3;minecraft:bedrock,**98***minecraft:dirt,minecraft:grass;1;village)
 ```
 
 # 동영상
-![동영상](captured/video.mp4)
+![동영상](https://youtu.be/QCfr-9DufWo)
